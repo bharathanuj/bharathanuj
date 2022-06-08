@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Slakkimsetty.Slakkimsetty)](https://github.com/bharathanuj) &nbsp;(https://img.shields.io/github/followers/Slakkimsetty.svg?style=social&label=Follow)](https://github.com/bharathanuj?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Slakkimsetty.Slakkimsetty)](https://github.com/bharathanuj) &nbsp;(https://img.shields.io/github/followers/bharathanuj.svg?style=social&label=Follow)](https://github.com/bharathanuj?tab=followers)
 
 
 I'm Srikar Lakkimsetti!
