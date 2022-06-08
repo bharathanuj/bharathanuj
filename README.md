@@ -26,3 +26,9 @@ I'm Bharath Anuj
 <a href="<www.linkedin.com/in/bharath-anuj-090876175>">![bharath anuj](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="<www.linkedin.com/in/srikar-lakkimsetti>">![srikar lakkimsetti](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+
+[course]:  https://github.com/
+[twitter]: https://twitter.com/_Kaushik_reddy
+[instagram]: https://www.instagram.com/___kaushik__reddy___/
+[linkedin]: https://www.linkedin.com/in/kaushiksiddavarapu/
+
