@@ -23,8 +23,6 @@
 📫**Get In Touch**
 
 <a href="mailto:bharath.anuj@gmail.com">![bharath.anuj@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
-<a href="<www.linkedin.com/in/bharath-anuj-090876175>">![bharath anuj](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
