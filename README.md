@@ -1,11 +1,9 @@
 ### Hello! 👋
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Slakkimsetty.Slakkimsetty)](https://github.com/bharathanuj) &nbsp;(https://img.shields.io/github/followers/bharathanuj.svg?style=social&label=Follow)](https://github.com/bharathanuj?tab=followers)
 
-
-I'm Srikar Lakkimsetti!
-- Pursuing B.tech in Computer Science at Amritha Viswa Vidhyapeetham
-- Intreseted in **DataScience** and **Web Dev**
+I'm Bharath Anuj 
+- Pursuing B.tech in Computer Science at Amrita Vishwa Vidhyapeethm
+- Intreseted in **DataScience** and **Deep learning**
 
 👨‍💻**Languages and Tools**
 
@@ -17,12 +15,12 @@ I'm Srikar Lakkimsetti!
   
 📈**My Stats**
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Slakkimsetty&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=bharathanuj&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slakkimsetty&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathanuj&layout=compact)
 
 
 📫**Get In Touch**
 
-<a href="mailto:srikar.lakkimsetti25@gmail.com">![srikar.lakkimsetti25@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
+<a href="mailto:bharath.anuj@gmail.com">![bharath.anuj@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;
 <a href="<www.linkedin.com/in/srikar-lakkimsetti>">![srikar lakkimsetti](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
